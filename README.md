@@ -1,4 +1,2 @@
-# Zun-Company
-Lethal Company mod pack that is funky ᗜ‿ᗜ
-
-Send help
+NEW REPO
+https://github.com/FrostyCirno/kenopsia
